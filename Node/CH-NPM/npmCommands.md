@@ -1,4 +1,4 @@
-- #### npm list ---> Show all the dependencies version.<u></u>
+- #### npm list ---> Show all the dependencies version.
 
 - #### npm list --depth=0 --> Only show the dependencies of your application.
 
